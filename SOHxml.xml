@@ -1536,13 +1536,13 @@
 </name><rank>
  PC 
 </rank></member></members><priorities><priority><issue>
- Motorcycle disorder 
-</issue><issue-date>2025-09-09</issue-date><action>
- Operation Apollo is in place to ensure an intelligence-led approach works hand in hand with our robust enforcement activity. We&amp;#39;re aligning with partners and key specialist departments within our organisation to made headway on this issue. 
-</action><action-date>2025-09-09</action-date></priority><priority><issue>
  Burglary 
 </issue><issue-date>2025-09-09</issue-date><action>
  Operation Poole is in place to ensure a robust response to reports of burglary with each specialist department playing their part in securing convictions. 
+</action><action-date>2025-09-09</action-date></priority><priority><issue>
+ Motorcycle disorder 
+</issue><issue-date>2025-09-09</issue-date><action>
+ Operation Apollo is in place to ensure an intelligence-led approach works hand in hand with our robust enforcement activity. We&amp;#39;re aligning with partners and key specialist departments within our organisation to made headway on this issue. 
 </action><action-date>2025-09-09</action-date></priority></priorities><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="D3"><name>
  Wallsend 
 </name><site-url>
@@ -2555,10 +2555,10 @@
  Concerns over drug use and dealing in Haltwhistle 
 </issue><issue-date>2025-06-25</issue-date><action>
  We held 8 weekly cuppa with a coppa events to increase intelligence submissions, supported by media releases and the execution drugs warrants. 
-</action><action-date>2025-06-25</action-date></priority></priorities><events><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-10-22T09:30:00</start-date><end-date>2025-10-22T11:30:00</end-date><location><address>Haltwhistle Library, Westgate, Haltwhistle, Northumberland</address><postcode>NE49 0AX 
+</action><action-date>2025-06-25</action-date></priority></priorities><events><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-17T13:00:00</start-date><end-date>2025-12-17T15:00:00</end-date><location><address>Haltwhistle Library, Westgate, Haltwhistle, Northumberland</address><postcode>NE49 0AX 
+</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-10-22T09:30:00</start-date><end-date>2025-10-22T11:30:00</end-date><location><address>Haltwhistle Library, Westgate, Haltwhistle, Northumberland</address><postcode>NE49 0AX 
 </postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-11-15T10:00:00</start-date><end-date>2025-11-15T12:00:00</end-date><location><address>Haltwhistle Library, Westgate, Haltwhistle, Northumberland</address><postcode>NE49 0AX 
-</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop in session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-13T10:00:00</start-date><end-date>2025-12-13T12:00:00</end-date><location><address>Bellingham Town Hall</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-17T13:00:00</start-date><end-date>2025-12-17T15:00:00</end-date><location><address>Haltwhistle Library, Westgate, Haltwhistle, Northumberland</address><postcode>NE49 0AX 
-</postcode><latitude>0</latitude><longitude>0</longitude></location></event></events><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="E1"><name>
+</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop in session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-13T10:00:00</start-date><end-date>2025-12-13T12:00:00</end-date><location><address>Bellingham Town Hall</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event></events><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="E1"><name>
  Westerhope and Newburn 
 </name><site-url>
  https://soh.northumbria.police.uk/ro/report/ocr/af/how-to-report-a-crime/ 
