@@ -246,7 +246,78 @@
  54.8851 
 </latitude><longitude>
  -1.42125 
-</longitude></location><members><member id="12345"><name>Test Supervisor</name><rank>Chief</rank></member></members><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="A5"><name>
+</longitude></location><members><member id="1388"><name>
+ Vlassis Tsansizis-Wheatman 
+</name><rank>
+ PC 
+</rank></member><member id="1422"><name>
+ Katie Hunter 
+</name><rank>
+ PC 
+</rank></member><member id="1529"><name>
+ Rachael Cook 
+</name><rank>
+ PC 
+</rank></member><member id="1635"><name>
+ Charlotte Mould 
+</name><rank>
+ PC 
+</rank></member><member id="2449"><name>
+ Barry Woods 
+</name><rank>
+ PC 
+</rank></member><member id="2516"><name>
+ Lewis Burdon 
+</name><rank>
+ PC 
+</rank></member><member id="2540"><name>
+ Ryan Mark 
+</name><rank>
+ Sergeant 
+</rank></member><member id="3087"><name>
+ Lisa Robertson 
+</name><rank>
+ PC 
+</rank></member><member id="3588"><name>
+ Lisa Pearce 
+</name><rank>
+ PC 
+</rank></member><member id="362"><name>
+ Natalie Orton 
+</name><rank>
+ Sergeant 
+</rank></member><member id="5167"><name>
+ Mitchell Stevens 
+</name><rank>
+ PCSO 
+</rank></member><member id="6733"><name>
+ Alexandra Martin 
+</name><rank>
+ PCSO 
+</rank></member><member id="7164"><name>
+ Mark Hall 
+</name><rank>
+ Chief Superintendent 
+</rank></member><member id="7299"><name>
+ Ashley Hopper 
+</name><rank>
+ Inspector 
+</rank></member><member id="7940"><name>
+ Gemma Calvert 
+</name><rank>
+ Chief Inspector 
+</rank></member><member id="7987"><name>
+ Amanda Dumighan 
+</name><rank>
+ Superintendent 
+</rank></member><member id="8026"><name>
+ Richard Catterall 
+</name><rank>
+ PC 
+</rank></member><member id="8341"><name>
+ Benjamin Tulip 
+</name><rank>
+ &#x0A;</rank></member><member id="12345"><name>Test Supervisor</name><rank>Chief</rank></member></members><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="A5"><name>
  Carley Hill, Hylton Red House, Witherwack, Fulwell and Roker 
 </name><site-url>
  https://soh.northumbria.police.uk/ro/report/ocr/af/how-to-report-a-crime/ 
@@ -652,10 +723,6 @@
 </name><rank>
  PCSO 
 </rank></member></members><priorities><priority><issue>
- Anti-Social Behaviour within North and South Marine Park, Foreshore, Sea Front areas. 
-</issue><issue-date>2025-06-25</issue-date><action>
- Patrols are carried out by both police and Council Neighbourhood Responders on a regular basis and include Project Shield patrols in hot spot areas. We continue to use all available powers, including dispersal notices, arrests, stop and search, prosecution for public spaces protection order, seizure of intoxicating substances, tenancy action visits and closure order notices initiated by the Council and the police. Police and South Tyneside Council jointly make parent/guardian home visits of those involved in the disorder. Youth justice services are used for those young people arrested, with a view to changing behaviours and longer-term problem solving through diversionary services. The Local authority continues to provide diversionary services and engagement at peak times. Compared to the same 6 month period in 2024, Jan-Jun 2025 has seen North Marine Park 71% reduction in ASB incidents, South Marine Park 79% reduction in ASB incidents. 
-</action><action-date>2025-06-25</action-date></priority><priority><issue>
  Shop theft 
 </issue><issue-date>2025-06-25</issue-date><action>
  South Tyneside Area Command have initiated changes into shop theft protocols, implemented further resourcing to tackle this ongoing crime trend, targeted prolific offenders, and obtained Community Behaviour Orders. Since October 2024 we have seen offenders sentenced by the courts to over 10 years’ worth of custodial sentences linked to prolific offenders. 
@@ -663,6 +730,10 @@
  Anti-social behaviour within South Shields town centre including South Shields Interchange 
 </issue><issue-date>2025-06-25</issue-date><action>
  Patrols are carried out by both police and Council Neighbourhood Responders on a regular basis and include Project Shield patrols in hot spot areas. We continue to use all available powers, including dispersal notices, arrests, stop and search, prosecution for public spaces protection order, seizure of intoxicating substances, tenancy action visits and closure order notices initiated by the Council and the police. Police and South Tyneside Council jointly make parent/guardian home visits of those involved in the disorder. Youth justice services are used for those young people arrested, with a view to changing behaviours and longer-term problem solving through diversionary services. The local authority continues to provide diversionary services and engagement at peak times. In these areas, ASB has reduced by 45% from Jan-Jun 25 vs the same 6 months in 2024. 
+</action><action-date>2025-06-25</action-date></priority><priority><issue>
+ Anti-Social Behaviour within North and South Marine Park, Foreshore, Sea Front areas. 
+</issue><issue-date>2025-06-25</issue-date><action>
+ Patrols are carried out by both police and Council Neighbourhood Responders on a regular basis and include Project Shield patrols in hot spot areas. We continue to use all available powers, including dispersal notices, arrests, stop and search, prosecution for public spaces protection order, seizure of intoxicating substances, tenancy action visits and closure order notices initiated by the Council and the police. Police and South Tyneside Council jointly make parent/guardian home visits of those involved in the disorder. Youth justice services are used for those young people arrested, with a view to changing behaviours and longer-term problem solving through diversionary services. The Local authority continues to provide diversionary services and engagement at peak times. Compared to the same 6 month period in 2024, Jan-Jun 2025 has seen North Marine Park 71% reduction in ASB incidents, South Marine Park 79% reduction in ASB incidents. 
 </action><action-date>2025-06-25</action-date></priority></priorities><events><event type="meeting"><title>Community drop-in session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-10-28T10:00:00</start-date><end-date>2025-10-28T12:00:00</end-date><location><address>Town Hall South Shields</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Community drop-in session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-11-13T10:00:00</start-date><end-date>2025-11-13T12:00:00</end-date><location><address>Cleadon Methodist Church, Sunderland Road</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Community drop-in session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-16T10:00:00</start-date><end-date>2025-12-16T12:00:00</end-date><location><address>Town Hall South Shields</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event></events><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="B2"><name>
  Cleadon, Whitburn and Boldon 
 </name><site-url>
@@ -1052,10 +1123,6 @@
 </name><rank>
  PCSO 
 </rank></member></members><priorities><priority><issue>
- Reducing crime and anti-social behaviour (ASB) on Sheraton Leam Lane 
-</issue><issue-date>2025-08-29</issue-date><action>
- Ongoing 3 month Problem-Oriented Policing (POP) plan with targeted days of action, visible patrols, resident engagement events, whilst also utilising closure orders and injunctions to target offenders to reduce crime and ASB. 
-</action><action-date>2025-08-29</action-date></priority><priority><issue>
  Protecting vulnerable people at risk of urban street gangs on the Sunderland Road Poets Estate 
 </issue><issue-date>2025-06-24</issue-date><action>
  Working with the council to rehouse vulnerable tenants at risk of urban street gang cuckooing. 
@@ -1071,6 +1138,10 @@
  Motorcycle anti-social behaviour (ASB) in Gateshead East 
 </issue><issue-date>2025-08-29</issue-date><action>
  We take days of action with targeted patrols using community intelligence and seized the quad bikes supported by helicopter and drone capability to deter and track down ASB bikes. 
+</action><action-date>2025-08-29</action-date></priority><priority><issue>
+ Reducing crime and anti-social behaviour (ASB) on Sheraton Leam Lane 
+</issue><issue-date>2025-08-29</issue-date><action>
+ Ongoing 3 month Problem-Oriented Policing (POP) plan with targeted days of action, visible patrols, resident engagement events, whilst also utilising closure orders and injunctions to target offenders to reduce crime and ASB. 
 </action><action-date>2025-08-29</action-date></priority></priorities><events><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-11-19T18:00:00</start-date><end-date>2025-11-19T19:00:00</end-date><location><address>Pelaw Library, Library Joicey Street, Pelaw</address><postcode>NE10 0QS 
 </postcode><latitude>0</latitude><longitude>0</longitude></location></event></events><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="C3"><name>
  Low Fell, Allerdene and Birtley 
@@ -1536,13 +1607,13 @@
 </name><rank>
  PC 
 </rank></member></members><priorities><priority><issue>
- Motorcycle disorder 
-</issue><issue-date>2025-09-09</issue-date><action>
- Operation Apollo is in place to ensure an intelligence-led approach works hand in hand with our robust enforcement activity. We&amp;#39;re aligning with partners and key specialist departments within our organisation to made headway on this issue. 
-</action><action-date>2025-09-09</action-date></priority><priority><issue>
  Burglary 
 </issue><issue-date>2025-09-09</issue-date><action>
  Operation Poole is in place to ensure a robust response to reports of burglary with each specialist department playing their part in securing convictions. 
+</action><action-date>2025-09-09</action-date></priority><priority><issue>
+ Motorcycle disorder 
+</issue><issue-date>2025-09-09</issue-date><action>
+ Operation Apollo is in place to ensure an intelligence-led approach works hand in hand with our robust enforcement activity. We&amp;#39;re aligning with partners and key specialist departments within our organisation to made headway on this issue. 
 </action><action-date>2025-09-09</action-date></priority></priorities><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="D3"><name>
  Wallsend 
 </name><site-url>
@@ -2555,10 +2626,10 @@
  Concerns over drug use and dealing in Haltwhistle 
 </issue><issue-date>2025-06-25</issue-date><action>
  We held 8 weekly cuppa with a coppa events to increase intelligence submissions, supported by media releases and the execution drugs warrants. 
-</action><action-date>2025-06-25</action-date></priority></priorities><events><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-17T13:00:00</start-date><end-date>2025-12-17T15:00:00</end-date><location><address>Haltwhistle Library, Westgate, Haltwhistle, Northumberland</address><postcode>NE49 0AX 
-</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-10-22T09:30:00</start-date><end-date>2025-10-22T11:30:00</end-date><location><address>Haltwhistle Library, Westgate, Haltwhistle, Northumberland</address><postcode>NE49 0AX 
+</action><action-date>2025-06-25</action-date></priority></priorities><events><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-10-22T09:30:00</start-date><end-date>2025-10-22T11:30:00</end-date><location><address>Haltwhistle Library, Westgate, Haltwhistle, Northumberland</address><postcode>NE49 0AX 
 </postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-11-15T10:00:00</start-date><end-date>2025-11-15T12:00:00</end-date><location><address>Haltwhistle Library, Westgate, Haltwhistle, Northumberland</address><postcode>NE49 0AX 
-</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop in session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-13T10:00:00</start-date><end-date>2025-12-13T12:00:00</end-date><location><address>Bellingham Town Hall</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event></events><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="E1"><name>
+</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop in session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-13T10:00:00</start-date><end-date>2025-12-13T12:00:00</end-date><location><address>Bellingham Town Hall</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-17T13:00:00</start-date><end-date>2025-12-17T15:00:00</end-date><location><address>Haltwhistle Library, Westgate, Haltwhistle, Northumberland</address><postcode>NE49 0AX 
+</postcode><latitude>0</latitude><longitude>0</longitude></location></event></events><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="E1"><name>
  Westerhope and Newburn 
 </name><site-url>
  https://soh.northumbria.police.uk/ro/report/ocr/af/how-to-report-a-crime/ 
@@ -3176,9 +3247,9 @@
  Serious violence 
 </issue><issue-date>2025-06-24</issue-date><action>
  We have a proactive team, working under Operation Spear, dedicated to reducing serious violence in the city centre. As part of their role, they focus on early identification of key individuals and target offenders. We seek to remand in custody where appropriate and look at disruption through the use of conditions, Community Protect Warning Notices and Criminal Behaviour Orders or Injunctions. Through partners in City Safe we look to make early identification of people who would benefit from diversion and intervention to remove them from situations/environments which can lead criminality. Currently, as a year on year comparison, most serious violence has been reduced by 10%. 
-</action><action-date>2025-10-01</action-date></priority></priorities><events><event type="other"><title>Student drop in - Newcastle University</title><description>An opportunity for students to chat informally to the University's dedicated police officer. Share any concerns, get practical crime prevention advice or find out more about policing in Newcastle.</description><start-date>2025-10-22T11:00:00</start-date><end-date>2025-10-22T12:00:00</end-date><location><address>Helix Building</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop-in Session</title><description>Whitley Bay Westerhope and Newburn West Shields and Riverside Sunderland Central Newcastle Central (only has university student drop ins, no community events) Leam Lane, Wardley, Heworth, Felling and Bill Quay Houghton Gosforth and Great Park Benwell and Elswick Bedlington Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-11-04T10:00:00</start-date><end-date>2025-11-04T12:00:00</end-date><location><address>Newcastle Central Library, 33 New Bridge Street West, Newcastle upon Tyne</address><postcode>NE1 8AX 
-</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="other"><title>Student drop in - Newcastle University</title><description>An opportunity for students to chat informally to the University's dedicated police officer. Share any concerns, get practical crime prevention advice or find out more about policing in Newcastle.</description><start-date>2025-11-05T12:00:00</start-date><end-date>2025-11-05T13:00:00</end-date><location><address>Helix Building</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="other"><title>Student drop in - Newcastle University</title><description>An opportunity for students to chat informally to the University's dedicated police officer. Share any concerns, get practical crime prevention advice or find out more about policing in Newcastle.</description><start-date>2025-11-19T12:00:00</start-date><end-date>2025-11-19T13:00:00</end-date><location><address>Helix Building</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-02T10:00:00</start-date><end-date>2025-12-02T12:00:00</end-date><location><address>Newcastle Central Library, 33 New Bridge Street West, Newcastle upon Tyne</address><postcode>NE1 8AX 
-</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="other"><title>Student drop in - Newcastle University</title><description>An opportunity for students to chat informally to the University's dedicated police officer. Share any concerns, get practical crime prevention advice or find out more about policing in Newcastle.</description><start-date>2025-12-03T12:00:00</start-date><end-date>2025-12-03T13:00:00</end-date><location><address>Helix Building</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event></events><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="E7"><name>
+</action><action-date>2025-10-01</action-date></priority></priorities><events><event type="meeting"><title>Drop-in Session</title><description>Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-12-02T10:00:00</start-date><end-date>2025-12-02T12:00:00</end-date><location><address>Newcastle Central Library, 33 New Bridge Street West, Newcastle upon Tyne</address><postcode>NE1 8AX 
+</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="other"><title>Student drop in - Newcastle University</title><description>An opportunity for students to chat informally to the University's dedicated police officer. Share any concerns, get practical crime prevention advice or find out more about policing in Newcastle.</description><start-date>2025-12-03T12:00:00</start-date><end-date>2025-12-03T13:00:00</end-date><location><address>Helix Building</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="other"><title>Student drop in - Newcastle University</title><description>An opportunity for students to chat informally to the University's dedicated police officer. Share any concerns, get practical crime prevention advice or find out more about policing in Newcastle.</description><start-date>2025-10-22T11:00:00</start-date><end-date>2025-10-22T12:00:00</end-date><location><address>Helix Building</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="meeting"><title>Drop-in Session</title><description>Whitley Bay Westerhope and Newburn West Shields and Riverside Sunderland Central Newcastle Central (only has university student drop ins, no community events) Leam Lane, Wardley, Heworth, Felling and Bill Quay Houghton Gosforth and Great Park Benwell and Elswick Bedlington Meet your local neighbourhood team to discuss ongoing issues, get advice and information around crime prevention, and hear more about the work we're doing to keep you safe and prevent crime in your local area.</description><start-date>2025-11-04T10:00:00</start-date><end-date>2025-11-04T12:00:00</end-date><location><address>Newcastle Central Library, 33 New Bridge Street West, Newcastle upon Tyne</address><postcode>NE1 8AX 
+</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="other"><title>Student drop in - Newcastle University</title><description>An opportunity for students to chat informally to the University's dedicated police officer. Share any concerns, get practical crime prevention advice or find out more about policing in Newcastle.</description><start-date>2025-11-05T12:00:00</start-date><end-date>2025-11-05T13:00:00</end-date><location><address>Helix Building</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event><event type="other"><title>Student drop in - Newcastle University</title><description>An opportunity for students to chat informally to the University's dedicated police officer. Share any concerns, get practical crime prevention advice or find out more about policing in Newcastle.</description><start-date>2025-11-19T12:00:00</start-date><end-date>2025-11-19T13:00:00</end-date><location><address>Helix Building</address><postcode>&#x0A;</postcode><latitude>0</latitude><longitude>0</longitude></location></event></events><links><link><title>Northumbria Police</title><description/><url>http://www.northumbria.police.uk</url></link></links></team><team id="E7"><name>
  Jesmond and Heaton 
 </name><site-url>
  https://soh.northumbria.police.uk/ro/report/ocr/af/how-to-report-a-crime/ 
